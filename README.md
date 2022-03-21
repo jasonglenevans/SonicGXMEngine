@@ -5,6 +5,10 @@ Scratch 3.0 Sonic Engine With Extucutable
 
 -------------config.json---------
 
+view - true/false - if the view menu is visible
+
+game - true/false if the game menu is visible
+
 fullscreen - true/false - tell the application to go to fullscreen on startup
 
 canResize - true/false - lets the user resize the application
@@ -15,11 +19,11 @@ has help - true/false - adds a help option in the game dropdown opens the file n
 
 quality - text: pixelated/hd - tells if the game is displaying in hd or pixelated resizing mode
 
-menu
+---menu---
 
 visible - true/false - if the menu bar is visible
 
-scratch
+--scratch--
 
 visble - true/false - if the Engine menu is visble
  
@@ -28,12 +32,6 @@ turbo - true/false - lets the user enable/disable turbo mode
 compatibilityMode - true/false - lets the user change the fps 60/30
 
 quality - true/false - lets the user change the quality pixelatd/hd
-
-
-view - true/false - if the view menu is visible
-
-game - true/false if the game menu is visible
-
 
 -------------Controls---------
 
