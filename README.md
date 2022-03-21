@@ -46,7 +46,7 @@ z - jump
 
 ### Setup
 
-Download this then extract the contents.
+Download https://github.com/jasonglenevans/SonicGXMEngine/releases then extract the contents.
 
 Go to https://jasonglenevans.github.io/GvbvdxxMod/editor/
 
